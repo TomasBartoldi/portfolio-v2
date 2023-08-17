@@ -1,0 +1,58 @@
+{
+    "navigation": {
+        "position": "Desarrollador Front End",
+        "description": "Me concentro en crear productos web que sean accesibles, intuitivos y altamente escalables",
+        "li": {
+            "about": "SOBRE MI",
+            "experience": "EXPERIENCIA",
+            "projects": "PROYECTOS"
+        }
+    },
+    "about": {
+        "description": "En el año 2013, comence a emprender un proyecto basado en una aplicación movil pero no como desarrollador, y trabajando codo a codo con desarrolladores me di cuenta de mi pasión por la tecnología. Despues de unos años de ejercer como community manager, me di cuenta que no estaba teniendo el rumbo que quería y decidí comenzar a estudiar de manera autodidacta lo más básico de la programación. Fue recién en el 2022 cuando comence mis estudios formales en el bootcamp de Henry, para así convertirme en desarrollador Full Stack, teniendo conocimientos en diversas tecnologías. Hoy en día estoy más orientado al Front End, me enfoco en desarrollar y diseñar UI escalables e intutivas."
+    },
+    "experience": {
+        "devforge": {
+            "present": "PRESENTE",
+            "company": "DEV FORGE",
+            "position": "Desarrollador Full Stack",
+            "description": "Desarrollo, estilo y mantengo proyectos interactivos para diferentes clientes."
+        },
+        "dramweed": {
+            "present": "PRESENTE",
+            "company": "DRA M WEED",
+            "position": "Desarrollador Front End",
+            "description": "Desarrollo, estilo y mantengo el sitio web de la empresa"
+        },
+        "treep": {
+            "present": "FEB - JUN",
+            "company": "TREEP MOBILITY",
+            "position": "Desarrollador Full Stack",
+            "description": "Desarrolle la aplicación móvil de la empresa siguiendo los diseñose proporcionados a travéz de Figma."
+        },
+        "resume": "Descargar CV"
+    },
+    "projects": {
+        "weather": {
+            "name": "Aplicación del clima",
+            "description": "Utilizamos una API de pronóstico del clima que, a través de un campo de búsqueda, genera una tarjeta con los datos climáticos del país o estado seleccionado."
+        },
+        "spotify": {
+            "name": "Spotify Clón",
+            "description": "El proyecto se basa es consumir la API de Spotify para generar un clón de la aplicación, permitiendome conectarme con mi cuenta original pudiendo asi reproducir las canciones guardadas y listas de reproducción creadas en mi usuario."
+        },
+        "becoming": {
+            "name": "Becoming Fit - e-coomerce",
+            "description": "Proyecto final del bootcamp Soy Henry. Consiste en un e-commerce de ropa deportiva que consta de una sección para administradores y otra para clientes. Desde la perspectiva de los administradores, es posible visualizar, editar y cargar nuevos productos. En el caso de los clientes, se ofrece la opción de iniciar sesión mediante Google, agregar productos al carrito y marcar artículos como favoritos. Cada producto cuenta con detalles específicos y una puntuación, además de ofrecer una pasarela de pago integrada con Mercado Pago."
+        },
+        "countries": {
+            "name": "Aplicación de Países",
+            "description": "Proyecto individual para el bootcamp Soy Henry. Se basa en consumir una api de países alojando la información en una base de datos, para luego, a travéz del ruteado poder desde el front hacer las peticiones necesarias a la base de datos y renderizar la información deseada."
+        },
+        "manly": {
+            "name": "North Manly Cleaners",
+            "description": "Proyecto freelance que consiste en la creación de un sitio web informativo para una empresa de limpieza en Australia."
+        }
+
+    }
+}

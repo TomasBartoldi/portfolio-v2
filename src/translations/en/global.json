@@ -1,0 +1,57 @@
+{
+    "navigation": {
+        "position": "Front End Developer",
+        "description": "I focus on creating web products that are accessible, intuitive, and highly scalable",
+        "li": {
+            "about": "ABOUT",
+            "experience": "EXPERIENCE",
+            "projects": "PROJECTS"
+        }
+    },
+    "about": {
+        "description": "In the year 2013, I started undertaking a project based on a mobile application, but not as a developer. Working closely with developers, I realized my passion for technology. After a few years of working as a community manager, I realized I wasn't heading in the direction I wanted, so I decided to start self-learning the basics of programming. It wasn't until 2022 that I began my formal studies at Henry's bootcamp, aiming to become a Full Stack developer with knowledge of various technologies. Nowadays, I'm more oriented towards Front End. I focus on developing and designing scalable, intuitive UI."
+    },
+    "experience": {
+        "devforge": {
+            "present": "PRESENT",
+            "company": "DEV FORGE",
+            "position": "Full Stack Developer",
+            "description": "Develop, style and maintain interactive projects for different clients."
+        },
+        "dramweed": {
+            "present": "PRESENT",
+            "company": "DRA M WEED",
+            "position": "Front End Developer",
+            "description": "Develop, style and maintain the company's website."
+        },
+        "treep": {
+            "present": "FEB - JUN",
+            "company": "TREEP MOBILITY",
+            "position": "Full Stack Developer",
+            "description": "Developed the company's mobile application following the designs provided through Figma."
+        },
+        "resume": "Download resume"
+    },
+    "projects": {
+        "weather": {
+            "name": "Weather App",
+            "description": "We use a weather forecast API that, through a search field, generates a card with the climatic data of the selected country or state."
+        },
+        "spotify": {
+            "name": "Spotify Clone",
+            "description": "The project is focused on consuming the Spotify API to generate an application clone, allowing me to connect with my original account and thus play the saved songs and playlists created in my user profile."
+        },
+        "becoming": {
+            "name": "Becoming Fit - e-coomerce",
+            "description": "Final project for the Soy Henry bootcamp. It centers around an e-commerce platform for sportswear, featuring both an administrative section and a customer-facing area. On the admin side, users can view, edit, and add new products. On the customer side, individuals can log in using Google, add products to their shopping cart, mark items as favorites, each product includes specific details and ratings, and there's a payment gateway integrated with Mercado Pago."
+        },
+        "countries": {
+            "name": "Countries App",
+            "description": "An individual project for the Soy Henry bootcamp. It revolves around consuming a countries API and storing the information in a database. Subsequently, using routing, the front end can send the necessary requests to the database and display the desired information."
+        },
+        "manly": {
+            "name": "North Manly Cleaners",
+            "description": "Freelance project focused on creating an informative website for an Australian cleaning company."
+        }
+    }
+}
