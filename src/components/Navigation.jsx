@@ -1,5 +1,5 @@
 import { AiOutlineWhatsApp } from 'react-icons/ai'
-import { BiLogoLinkedinSquare, BiLogoGithub, BiLogoGmail } from 'react-icons/bi'
+import { BiLogoLinkedinSquare, BiLogoGithub, /* BiLogoGmail */ } from 'react-icons/bi'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-scroll'
 import { useState, useEffect } from 'react'
@@ -143,9 +143,9 @@ const Navigation = () => {
                 )}`} target="blank" rel="noopener noreferrer">
                <AiOutlineWhatsApp size={30} className='text-slate-600 hover:text-slate-300' />
               </a>
-              <a href="" target="blank" rel="noopener noreferrer">
+{/*               <a href="" target="blank" rel="noopener noreferrer">
                <BiLogoGmail size={30} className='text-slate-600 hover:text-slate-300' />
-              </a>
+              </a> */}
             </div>
         </div>
 
