@@ -118,9 +118,6 @@ const Projects = () => {
               <a href="https://github.com/TomasBartoldi/Weather-App" target="blank" className='bg-transparent'>
                <BiLogoGithub size={30} className='text-slate-600 hover:text-slate-300 bg-transparent' />
               </a>
-              <a href="https://weather-app-umber-iota-34.vercel.app/" target="blank" className='bg-transparent'>
-               <GoProjectSymlink size={30} className='text-slate-600 hover:text-slate-300 bg-transparent' />
-              </a>
              </div>
             </div>
         </div>
