@@ -42,7 +42,7 @@
             "description": "El proyecto se basa es consumir la API de Spotify para generar un clón de la aplicación, permitiendome conectarme con mi cuenta original pudiendo asi reproducir las canciones guardadas y listas de reproducción creadas en mi usuario."
         },
         "becoming": {
-            "name": "Becoming Fit - e-coomerce",
+            "name": "Becoming Fit - e-commerce",
             "description": "Proyecto final del bootcamp Soy Henry. Consiste en un e-commerce de ropa deportiva que consta de una sección para administradores y otra para clientes. Desde la perspectiva de los administradores, es posible visualizar, editar y cargar nuevos productos. En el caso de los clientes, se ofrece la opción de iniciar sesión mediante Google, agregar productos al carrito y marcar artículos como favoritos. Cada producto cuenta con detalles específicos y una puntuación, además de ofrecer una pasarela de pago integrada con Mercado Pago."
         },
         "countries": {

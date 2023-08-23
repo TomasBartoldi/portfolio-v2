@@ -42,7 +42,7 @@
             "description": "The project is focused on consuming the Spotify API to generate an application clone, allowing me to connect with my original account and thus play the saved songs and playlists created in my user profile."
         },
         "becoming": {
-            "name": "Becoming Fit - e-coomerce",
+            "name": "Becoming Fit - e-commerce",
             "description": "Final project for the Soy Henry bootcamp. It centers around an e-commerce platform for sportswear, featuring both an administrative section and a customer-facing area. On the admin side, users can view, edit, and add new products. On the customer side, individuals can log in using Google, add products to their shopping cart, mark items as favorites, each product includes specific details and ratings, and there's a payment gateway integrated with Mercado Pago."
         },
         "countries": {
