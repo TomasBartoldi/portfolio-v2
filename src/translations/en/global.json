@@ -15,20 +15,20 @@
         "devforge": {
             "present": "PRESENT",
             "company": "DEV FORGE",
-            "position": "Full Stack Developer",
-            "description": "Develop, style and maintain interactive projects for different clients."
+            "position": "Front End Developer",
+            "description": "I excel as a Front-End Developer, working on and styling client projects in the fields of healthcare, cleaning, and mobility. My passionate focus on crafting innovative and highly functional user interfaces has significantly contributed to the success of projects in these industries, providing technological solutions that enhance efficiency and user experience."
         },
         "dramweed": {
             "present": "PRESENT",
             "company": "DRA M WEED",
             "position": "Front End Developer",
-            "description": "Develop, style and maintain the company's website."
+            "description": "In my role as a Front-End Developer at Dra M Weed, an online medical practice, I've excelled in creating highly scalable interfaces. From designing intricate forms to implementing seamless PDF uploads and developing the online appointment booking section, my dedication to crafting user-friendly solutions has significantly enhanced the clinic's digital presence, streamlining patient interactions and improving accessibility."
         },
         "treep": {
             "present": "FEB - JUN",
             "company": "TREEP MOBILITY",
             "position": "Full Stack Developer",
-            "description": "Developed the company's mobile application following the designs provided through Figma."
+            "description": "In my role as a Full Stack Developer at Treep Mobility, a company in the Mechanical Engineering sector specializing in electric motorcycle manufacturing, I have stood out for my comprehensive contributions. This includes database creation, establishing a robust connection to the backend, developing HTTP requests from the server to the client, and also for my involvement in various aspects of the client's user interface, ranging from form development to the implementation of the user registration and login system."
         },
         "resume": "Download resume"
     },

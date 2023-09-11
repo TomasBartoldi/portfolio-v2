@@ -15,20 +15,20 @@
         "devforge": {
             "present": "PRESENTE",
             "company": "DEV FORGE",
-            "position": "Desarrollador Full Stack",
-            "description": "Desarrollo, estilo y mantengo proyectos interactivos para diferentes clientes."
+            "position": "Desarrollador Front End",
+            "description": "Me destco como Front End Developer desarrollando y estilando proyectos de clientes en los sectores de medicina, limpieza y movilidad. Mi enfoque apasionado en la creación de interfaces de usuario innovadoras y altamente funcionales ha contribuido significativamente al éxito de proyectos en estas industrias, brindando soluciones tecnológicas que impulsan la eficiencia y la experiencia del usuario."
         },
         "dramweed": {
             "present": "PRESENTE",
             "company": "DRA M WEED",
             "position": "Desarrollador Front End",
-            "description": "Desarrollo, estilo y mantengo el sitio web de la empresa"
+            "description": "En mi rol como Desarrollador Front-End en Dra M Weed, una consultorio médica en línea, me he destacado en la creación de interfaces altamente escalables. Desde el diseño de formularios complejos hasta la implementación de la carga de archivos PDF sin problemas y el desarrollo de la sección de reserva de citas en línea, mi dedicación en la creación de soluciones amigables para el usuario ha mejorado significativamente la presencia digital de la clínica, simplificando las interacciones con los pacientes y mejorando la accesibilidad."
         },
         "treep": {
             "present": "FEB - JUN",
             "company": "TREEP MOBILITY",
             "position": "Desarrollador Full Stack",
-            "description": "Desarrollé la aplicación móvil de la empresa siguiendo los diseños proporcionados a través de Figma."
+            "description": "En mi puesto como Desarrollador Full Stack en Treep Mobility, una empresa del sector de Ingeniería Mecánica especializada en la fabricación de motocicletas eléctricas, me he destacado por mi contribución integral. Esto incluye la creación de la base de datos, estableciendo una sólida conexión con el backend, desarrollando las peticiones HTTP del servidor hacia el cliente, y también por la creación de diversas partes de la interfaz de usuario del cliente, que abarcan desde formularios hasta la implementación del sistema de registro y login de usuarios."
         },
         "resume": "Descargar CV"
     },
