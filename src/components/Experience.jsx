@@ -13,6 +13,24 @@ const Experience = () => {
       
       <a href="https://www.devforgeconsulting.com" target="blank">
         <div className="flex sm:flex-row flex-col gap-6 p-4 group bg-transparent hover:bg-slate-600 hover:bg-opacity-10 rounded-[5px] ">
+           <p className='text-slate-500 text-[14px] font-semibold bg-transparent'>2023 - {t("experience.desba.present")}</p>
+           <div className='flex flex-col gap-3 bg-transparent'>
+             <h1 className='flex flex-row gap-2 text-slate-300 font-semibold bg-transparent group-hover:underline'>{t("experience.desba.company")} <AiOutlineArrowUp size={20} className='text-slate-300 bg-transparent group-hover:animate-bounce' /></h1>
+             <h3 className='text-slate-500 font-semibold bg-transparent'> {t("experience.desba.position")}</h3>
+             <p className='max-w-sm text-slate-500 bg-transparent'>{t("experience.desba.description")}</p>
+             <div className='flex flex-wrap gap-3 max-w-sm bg-transparent'>
+                <div className='text-[14px] rounded-full bg-[#20696B] bg-opacity-10 font-semibold p-2 text-[#20696B]'>HTML</div>
+                <div className='text-[14px] rounded-full bg-[#20696B] bg-opacity-10 font-semibold p-2 text-[#20696B]'>SASS (SCSS) </div>
+                <div className='text-[14px] rounded-full bg-[#20696B] bg-opacity-10 font-semibold p-2 text-[#20696B]'>Javascript</div>
+                <div className='text-[14px] rounded-full bg-[#20696B] bg-opacity-10 font-semibold p-2 text-[#20696B]'>React</div>
+                <div className='text-[14px] rounded-full bg-[#20696B] bg-opacity-10 font-semibold p-2 text-[#20696B]'>Node</div>
+             </div>
+           </div>
+        </div>
+      </a>
+
+      <a href="https://www.devforgeconsulting.com" target="blank">
+        <div className="flex sm:flex-row flex-col gap-6 p-4 group bg-transparent hover:bg-slate-600 hover:bg-opacity-10 rounded-[5px] ">
            <p className='text-slate-500 text-[14px] font-semibold bg-transparent'>2023 - {t("experience.devforge.present")}</p>
            <div className='flex flex-col gap-3 bg-transparent'>
              <h1 className='flex flex-row gap-2 text-slate-300 font-semibold bg-transparent group-hover:underline'>{t("experience.devforge.company")} <AiOutlineArrowUp size={20} className='text-slate-300 bg-transparent group-hover:animate-bounce' /></h1>

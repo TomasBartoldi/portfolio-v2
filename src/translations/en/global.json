@@ -12,16 +12,22 @@
         "description": "In the year 2013, I embarked on a project centered around a mobile application, although not in the capacity of a developer. Working closely with developers, I discovered my passion for technology. After several years of functioning as a community manager, I realized that I wasn't progressing in the direction I desired. This prompted me to initiate self-guided learning of the fundamentals of programming. It wasn't until 2022 that I commenced my formal studies at Henry's boot camp, with the aim of evolving into a Full Stack developer proficient in various technologies. Presently, I'm more focused on the Front End. My emphasis lies in crafting and engineering scalable, user-intuitive UI designs"
     },
     "experience": {
+        "desba": {
+            "present": "PRESENTE",
+            "company": "DESBA",
+            "position": "Frontend Developer",
+            "description": "As a front-end developer at DESBA, my role is pivotal in the creation and optimization of intuitive and appealing user interfaces for the project aimed at educational institutions. My primary responsibility lies in implementing high-quality designs, ensuring a smooth and efficient user experience. I work closely with the design team to translate visual concepts into functional code, utilizing modern web technologies such as HTML, CSS, JavaScript, React, Node.js, among others. Additionally, I strive to ensure compatibility and accessibility across various devices and browsers, always seeking to improve usability and interactivity. My commitment goes beyond visual appearance, as I constantly aim to optimize client-side performance and efficiency, providing robust and satisfying solutions tailored to the specific needs of the educational institutions served by DESBA."
+        },
         "devforge": {
             "present": "PRESENT",
             "company": "DEV FORGE",
-            "position": "Front End Developer",
+            "position": "Frontend Developer",
             "description": "I excel as a Front-End Developer, working on and styling client projects in the fields of healthcare, cleaning, and mobility. My passionate focus on crafting innovative and highly functional user interfaces has significantly contributed to the success of projects in these industries, providing technological solutions that enhance efficiency and user experience."
         },
         "dramweed": {
             "present": "PRESENT",
             "company": "DRA M WEED",
-            "position": "Front End Developer",
+            "position": "Frontend Developer",
             "description": "In my role as a Front-End Developer at Dra M Weed, an online medical practice, I've excelled in creating highly scalable interfaces. From designing intricate forms to implementing seamless PDF uploads and developing the online appointment booking section, my dedication to crafting user-friendly solutions has significantly enhanced the clinic's digital presence, streamlining patient interactions and improving accessibility."
         },
         "treep": {

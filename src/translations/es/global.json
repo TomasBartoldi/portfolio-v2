@@ -12,6 +12,12 @@
         "description": "En el año 2013, comence a emprender un proyecto basado en una aplicación movil pero no como desarrollador, y trabajando codo a codo con desarrolladores me di cuenta de mi pasión por la tecnología. Despues de unos años de ejercer como community manager, me di cuenta que no estaba teniendo el rumbo que quería y decidí comenzar a estudiar de manera autodidacta lo más básico de la programación. Fue recién en el 2022 cuando comence mis estudios formales en el bootcamp de Henry, para así convertirme en desarrollador Full Stack, teniendo conocimientos en diversas tecnologías. Hoy en día estoy más orientado al Front End, me enfoco en desarrollar y diseñar UI escalables e intutivas."
     },
     "experience": {
+        "desba": {
+            "present": "PRESENTE",
+            "company": "DESBA",
+            "position": "Desarrollador Front End",
+            "description": "Como desarrollador front-end en DESBA, mi papel es crucial en la creación y optimización de interfaces de usuario intuitivas y atractivas para el proyecto destinado a instituciones educativas. Mi responsabilidad principal radica en la implementación de diseños de alta calidad, asegurando una experiencia de usuario fluida y eficiente. Trabajo en estrecha colaboración con el equipo de diseño para traducir conceptos visuales en código funcional, utilizando tecnologías web modernas como HTML, CSS, JavaScript, React, Node Js, entre otras. Además, me esfuerzo por garantizar la compatibilidad y accesibilidad en diversos dispositivos y navegadores, buscando siempre mejorar la usabilidad y la interactividad. Mi compromiso se extiende más allá de la apariencia visual, ya que busco constantemente optimizar el rendimiento y la eficiencia del lado del cliente para brindar soluciones robustas y satisfactorias a las necesidades específicas de las instituciones educativas que atiende DESBA."
+        },
         "devforge": {
             "present": "PRESENTE",
             "company": "DEV FORGE",
